@@ -1,5 +1,5 @@
 public class App {
     public  App(){
-        System.out.println("Hello class");
+        System.out.println("Hello class！！！");
     }
 }
